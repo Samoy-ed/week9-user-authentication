@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "97869778981",
-    "project_id": "week9-user-authentication",
-    "storage_bucket": "week9-user-authentication.appspot.com"
+    "project_number": "1084667948938",
+    "project_id": "cmsc23-todoapp-laxamana",
+    "storage_bucket": "cmsc23-todoapp-laxamana.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:97869778981:android:ed5cc80da6f5f59089efcc",
+        "mobilesdk_app_id": "1:1084667948938:android:eedeb80066374059af2273",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlkXcyn0eP83LP8ST6KBvEATDyqhWqJcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084667948938:android:e0e4b5ee00f07066af2273",
         "android_client_info": {
           "package_name": "com.example.week9_authentication"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC6heRq0Ed-GWb_Dnfi67VRz4QTeJRHp08"
+          "current_key": "AIzaSyBlkXcyn0eP83LP8ST6KBvEATDyqhWqJcI"
         }
       ],
       "services": {
